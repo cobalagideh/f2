@@ -1,0 +1,20 @@
+{
+    "name": "big-little-lies-season-2-episode-1-tv-streaming/hbo-channel",
+    "description": "WATCH ONLINE Big Little Lies Season 2 Episode 1 Full Free Putlocker S02E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Big Little Lies Season 2 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/eF2SG42JUz",
+            "homepage": "https://t.co/eF2SG42JUz",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
